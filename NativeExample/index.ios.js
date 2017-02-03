@@ -20,7 +20,7 @@ export default class NativeExample extends Component {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-          Check out this animation:
+          Check out this native animation:
         </Text>
         <MyAnimation />
       </View>
